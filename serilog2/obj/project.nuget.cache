@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XG0ekJfQeP4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amrut\\Desktop\\AMRUTA\\repo\\serilog2\\serilog2\\serilog2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amrut\\.nuget\\packages\\serilog\\4.2.0\\serilog.4.2.0.nupkg.sha512",
+    "C:\\Users\\amrut\\.nuget\\packages\\serilog.sinks.console\\6.0.0\\serilog.sinks.console.6.0.0.nupkg.sha512",
+    "C:\\Users\\amrut\\.nuget\\packages\\serilog.sinks.file\\6.0.0\\serilog.sinks.file.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
